@@ -1,1 +1,15 @@
-
+.zals {
+    background-color:green;
+}
+.sarkans {
+    background-color: red;
+}
+.dzeltens {
+    background-color: yellow;
+}
+.krasas {
+    height: 200px;
+}
+h1 {
+    text-align: center;
+}
